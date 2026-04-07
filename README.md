@@ -1,4 +1,10 @@
-# 🚀 AutoInsight – Personal Data Analytics Dashboard
+# 🚀 AutoInsight – Intelligent Data Analysis Dashboard
+
+[![Live App](https://img.shields.io/badge/Live%20App-Open-green?style=for-the-badge)](https://autoinsight-mqyohbejng7xqb7saxyyqh.streamlit.app/)
+
+👉 **[Click here to use the app](https://autoinsight-mqyohbejng7xqb7saxyyqh.streamlit.app/)**
+
+---
 
 AutoInsight is a **full-stack web application** that transforms CSV activity logs into insightful analytics, summaries, visualizations, and trend forecasts.  
 It is built with a modern stack: **FastAPI** (backend) + **React.js** (frontend) + **SQLite** (storage).

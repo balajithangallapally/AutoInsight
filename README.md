@@ -55,7 +55,11 @@ This project is built completely in Python.
 ## 📂 Project Structure
 AutoInsight/
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── sample_data.csv
+
 └── screenshots/
